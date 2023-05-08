@@ -1,0 +1,204 @@
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\appsettings.json
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.exe
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.deps.json
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.runtimeconfig.json
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.pdb
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.AssemblyReference.cache
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.AssemblyInfoInputs.cache
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.AssemblyInfo.cs
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.CoreCompileInputs.cache
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.CardsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CardsAPI.props
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CardsAPI.props
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CardsAPI.props
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\scopedcss\bundle\CardsAPI.styles.css
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.CopyComplete
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.dll
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\refint\CardsAPI.dll
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.pdb
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.genruntimeconfig.cache
+D:\Angular\Api\Cards\CardsAPI\obj\Debug\net6.0\ref\CardsAPI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\appsettings.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.exe
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.deps.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.runtimeconfig.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.pdb
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.AssemblyReference.cache
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.AssemblyInfoInputs.cache
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.AssemblyInfo.cs
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.CoreCompileInputs.cache
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.CardsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CardsAPI.props
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CardsAPI.props
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CardsAPI.props
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\scopedcss\bundle\CardsAPI.styles.css
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.CopyComplete
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\refint\CardsAPI.dll
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.pdb
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.genruntimeconfig.cache
+D:\Angular\Angular crud with api\Cards\CardsAPI\obj\Debug\net6.0\ref\CardsAPI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\appsettings.json
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.exe
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.deps.json
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.runtimeconfig.json
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\CardsAPI.pdb
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Humanizer.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular\Cards\CardsAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.AssemblyReference.cache
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.AssemblyInfoInputs.cache
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.AssemblyInfo.cs
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.CoreCompileInputs.cache
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.CardsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CardsAPI.props
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CardsAPI.props
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CardsAPI.props
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\scopedcss\bundle\CardsAPI.styles.css
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.csproj.CopyComplete
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.dll
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\refint\CardsAPI.dll
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.pdb
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\CardsAPI.genruntimeconfig.cache
+F:\Angular\Cards\CardsAPI\obj\Debug\net6.0\ref\CardsAPI.dll
